@@ -19,7 +19,7 @@ where I focus on developing web-based applications using:
 ## 🛠️ Tech Stack
 
 **Languages:**  
-`Java`, `Python`, `JavaScript`, `HTML/CSS`, `C/C++`, `MIPS Assembly`
+`Java`, `Python`, `JavaScript`, `CSS`, `C/C++`, `MIPS Assembly`, `R (Rstudio)`
 
 **Backend & APIs:**  
 `Spring Boot`, `Hibernate`, `REST APIs`, `Swagger`, `Docker`, `MongoDB`, `PostgreSQL`, `MySQL`, `Oracle`
