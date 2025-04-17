@@ -47,7 +47,7 @@ where I focus on developing web-based applications using:
 - 📍 Based in Frankfurt am Main, Germany  
 - 📧 mohamad.moaqaly@gmail.com  
 - 🌐 Portfolio website coming soon!  
-- 🧑‍💻 [GitHub Repos Here](https://github.com/YOUR_USERNAME)
+- 🧑‍💻 [GitHub Repos Here](https://github.com/moaqaly)
 
 ---
 
