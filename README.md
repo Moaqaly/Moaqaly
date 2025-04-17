@@ -10,7 +10,7 @@ I'm a **Java Developer** and **Computer Science student** at Frankfurt Universit
 where I focus on developing web-based applications using:
 - `Java`, `Spring Boot`, `Spring Security`, `Hibernate`
 - `Docker`, `REST APIs`, `Swagger`, `MongoDB`, `PostgreSQL`, `Oracle`
-- Frontend tech like `JavaScript`, `Vue.js`, and `Angular`
+- Frontend tech like `JavaScript`, and `JavaFX`
 
 💡 I also bring experience from real-world support and infrastructure projects, including SAP & Azure administration, and 1st/2nd level IT support.
 
@@ -25,7 +25,7 @@ where I focus on developing web-based applications using:
 `Spring Boot`, `Hibernate`, `REST APIs`, `Swagger`, `Docker`, `MongoDB`, `PostgreSQL`, `MySQL`, `Oracle`
 
 **Frontend & UI:**  
- `JavaFX`, `Java Swing`, `PyQt`,`javascript`
+ `JavaFX`, `Java Swing`, `PyQt`, `JavaScript`
 
 **Dev Tools:**  
 `Git`, `GitHub`, `IntelliJ`, `NetBeans`, `PyCharm`, `Docker`, `Active Directory`, `Azure`
@@ -36,7 +36,6 @@ where I focus on developing web-based applications using:
 
 - 📚 **Library Management System** – Desktop application using Java Swing & MySQL  
 - 🅿️ **Parking Reservation Tool** – JavaFX frontend for parking slot booking with CSS and MySQL  
-- 🚗 **Traffic Simulation with Model Cars** – Simulation using Java and Python  
 - 🎮 **Anki Overdrive PC Controller** – Bluetooth & WebSocket control system for smart cars  
 - 🧾 **Invoice Middleware & API System** – Spring Boot-based integration for structured electronic invoices (XRechnung, ZUGFeRD)
 
