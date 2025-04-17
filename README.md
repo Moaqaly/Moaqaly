@@ -25,7 +25,7 @@ where I focus on developing web-based applications using:
 `Spring Boot`, `Hibernate`, `REST APIs`, `Swagger`, `Docker`, `MongoDB`, `PostgreSQL`, `MySQL`, `Oracle`
 
 **Frontend & UI:**  
-`Angular`, `Vue.js`, `Vuetify`, `JavaFX`, `Java Swing`, `PyQt`
+ `JavaFX`, `Java Swing`, `PyQt`,`javascript`
 
 **Dev Tools:**  
 `Git`, `GitHub`, `IntelliJ`, `NetBeans`, `PyCharm`, `Docker`, `Active Directory`, `Azure`
